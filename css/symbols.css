@@ -1,0 +1,60 @@
+body{
+	background-color: lightpink;
+}
+p{
+	font-size: 48px;
+}
+.p1{
+	color: purple;
+	background-color: lavender;
+	 font-family: "Rubik Glitch Pop", system-ui;
+}
+.p2{
+	font-family: Georgia, Times, "Times New Roman", serif;;
+}
+.p3{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: italic;
+}
+.p4{
+	font-family: cursive;
+}
+.p5{
+	font-family: monospace;
+	font-weight: 700;
+}
+.p6{
+  font-family: "Kablammo", system-ui;
+}
+.p7{
+	font-family: "Rubik Moonrocks", sans-serif;
+}
+.p8{
+	 font-family: "Rubik Bubbles", system-ui;
+	 text-shadow: 0 0 10px deeppink;
+}
+.p9{
+	font-family: "Lobster", sans-serif;
+	text-shadow: 2px -2px grey;
+}
+.p10{
+	 font-family: "Rubik Glitch Pop", system-ui;
+	 text-shadow: 2px -2px green, 4px -4px red;
+}
+.p11{
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: blue;
+}
+.p12{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: wavy;
+	text-decoration-color: purple;
+}
+.s1{
+	font-size: 2em;
+	font-family: "Rubik Moonrocks", sans-serif;
+	color: orange;
+	
+}

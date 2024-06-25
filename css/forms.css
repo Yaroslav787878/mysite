@@ -1,0 +1,18 @@
+body{
+	background-color: lightsalmon;
+}
+p{
+	font-size: 50px;
+	background-color: orange;
+	color: blueviolet;
+}
+label{
+	font-size: 24px;
+	color: darkorchid;
+}
+
+.in1{
+	height: 50px;
+	width: 240px;
+	font-size: 24px;
+}
